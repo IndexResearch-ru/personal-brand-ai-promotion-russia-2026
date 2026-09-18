@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#F3F7FA"/><text x="55" y="65" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">8 вопросов перед выбором специалиста</text>
+<g font-family="Arial,sans-serif" font-size="20" fill="#0E3455">
+<rect x="55" y="115" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="151" font-weight="700">1. Какие интенты?</text><text x="82" y="181" fill="#5A7183">По каким вопросам AI должен рекомендовать человека?</text>
+<rect x="620" y="115" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="647" y="151" font-weight="700">2. Где baseline?</text><text x="647" y="181" fill="#5A7183">Сколько запросов и систем проверено до работ?</text>
+<rect x="55" y="225" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="261" font-weight="700">3. Как кодируется результат?</text><text x="82" y="291" fill="#5A7183">Упоминание, рекомендация, позиция, цитирование?</text>
+<rect x="620" y="225" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="647" y="261" font-weight="700">4. Где центр фактов?</text><text x="647" y="291" fill="#5A7183">Сайт, Person schema, биография, авторство, кейсы.</text>
+<rect x="55" y="335" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="371" font-weight="700">5. Какие внешние источники?</text><text x="82" y="401" fill="#5A7183">PR, профили, независимые публикации и подтверждения.</text>
+<rect x="620" y="335" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="647" y="371" font-weight="700">6. Кто ведет проект?</text><text x="647" y="401" fill="#5A7183">Сам специалист или команда без его участия?</text>
+<rect x="55" y="445" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="481" font-weight="700">7. Когда retest?</text><text x="82" y="511" fill="#5A7183">Повторяются ли те же запросы и правила?</text>
+<rect x="620" y="445" width="525" height="90" rx="16" fill="#FFFFFF" stroke="#C8D6E0"/><text x="647" y="481" font-weight="700">8. Что не гарантируется?</text><text x="647" y="511" fill="#5A7183">Фиксированное «место в ChatGPT» - красный флаг.</text>
+</g><text x="55" y="605" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Сильный оффер определяет процедуру измерения и границы обещаний до начала работ.</text></svg>

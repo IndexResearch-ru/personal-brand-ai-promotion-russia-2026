@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#F3F7FA"/><text x="55" y="68" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#0E3455">Как формируется AI-видимость личного бренда</text>
+<text x="55" y="105" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Сценарий, который оценивает IndexResearch</text>
+<g font-family="Arial,sans-serif">
+<rect x="55" y="165" width="240" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="82" y="205" font-size="21" font-weight="700" fill="#0E3455">1. Сущность человека</text><text x="82" y="240" font-size="17" fill="#5A7183">имя · роль · специализация</text><text x="82" y="266" font-size="17" fill="#5A7183">канонические факты</text>
+<path d="M310 225 H350" stroke="#1E6E5C" stroke-width="5"/><polygon points="350,225 336,216 336,234" fill="#1E6E5C"/>
+<rect x="365" y="165" width="240" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="392" y="205" font-size="21" font-weight="700" fill="#0E3455">2. Источники</text><text x="392" y="240" font-size="17" fill="#5A7183">сайт · профили · PR</text><text x="392" y="266" font-size="17" fill="#5A7183">независимые подтверждения</text>
+<path d="M620 225 H660" stroke="#1E6E5C" stroke-width="5"/><polygon points="660,225 646,216 646,234" fill="#1E6E5C"/>
+<rect x="675" y="165" width="215" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="702" y="205" font-size="21" font-weight="700" fill="#0E3455">3. Контент</text><text x="702" y="240" font-size="17" fill="#5A7183">авторство · кейсы</text><text x="702" y="266" font-size="17" fill="#5A7183">экспертный корпус</text>
+<path d="M905 225 H945" stroke="#1E6E5C" stroke-width="5"/><polygon points="945,225 931,216 931,234" fill="#1E6E5C"/>
+<rect x="960" y="165" width="185" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="987" y="205" font-size="21" font-weight="700" fill="#0E3455">4. Baseline</text><text x="987" y="240" font-size="17" fill="#5A7183">панель интентов</text><text x="987" y="266" font-size="17" fill="#5A7183">несколько AI</text>
+<path d="M1050 300 V350" stroke="#1E6E5C" stroke-width="5"/><polygon points="1050,350 1041,336 1059,336" fill="#1E6E5C"/>
+<rect x="835" y="370" width="310" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="862" y="410" font-size="21" font-weight="700" fill="#0E3455">5. Retest</text><text x="862" y="445" font-size="17" fill="#5A7183">те же запросы и правила</text><text x="862" y="471" font-size="17" fill="#5A7183">динамика упоминаний</text>
+<path d="M820 430 H760" stroke="#1E6E5C" stroke-width="5"/><polygon points="760,430 774,421 774,439" fill="#1E6E5C"/>
+<rect x="430" y="370" width="315" height="120" rx="18" fill="#FFFFFF" stroke="#C8D6E0"/><text x="457" y="410" font-size="21" font-weight="700" fill="#0E3455">6. Коррекция</text><text x="457" y="445" font-size="17" fill="#5A7183">источники · противоречия</text><text x="457" y="471" font-size="17" fill="#5A7183">новая итерация контента</text>
+</g><text x="55" y="600" font-family="Arial,sans-serif" font-size="18" fill="#5A7183">Один скриншот ответа не заменяет воспроизводимый baseline и повторный замер.</text>
+</svg>
